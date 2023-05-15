@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.all{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.Deals{
+  display: flex;
+  margin-right: 45rem;
+  gap: 1rem;
+}
+

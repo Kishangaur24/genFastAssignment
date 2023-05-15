@@ -1,0 +1,21 @@
+.mainCard{
+    margin-top: 10rem;
+}
+.card{
+display: inline-table;
+margin: 1rem;
+justify-content: center;
+align-items: center;
+padding: 3rem;
+padding-left: 5rem;
+background-color: rgb(210, 217, 223);
+
+}
+.card img{
+   height: 6rem; 
+   border-radius: 5px ;
+}
+.cardHeading{
+    text-align: center;
+}
+

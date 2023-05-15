@@ -1,0 +1,52 @@
+.main{
+    width: 100vw;
+}
+.logo{
+    height: 8rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.logo img{
+    height: 7rem;
+}
+.logo select{
+    height: 2rem;
+    width: 9rem;
+}
+.logo input{
+    height: 3rem;
+    width: 35rem;
+    border-radius: 20px;
+    background-color: rgb(244, 241, 237);
+    border: none;
+    outline:none;
+    padding-left: 2rem;
+}
+.Secondheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.option{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-right: 20rem;
+}
+.icons{
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: rgb(255, 157, 0);
+    justify-content: space-evenly;
+}

@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+}
+.logo img{
+    height: 8rem;
+    margin-top: 4rem;
+}
+.logo p{
+    
+    width: 20rem;
+}
+.logo h4{
+   margin-left: 5rem;
+   font-size: 1.5rem;
+   font-weight: 700;
+}
+.account{
+    /* border: 2px solid red; */
+    margin-bottom: 6.5rem;
+}
+.information{
+    /* border: 2px solid red; */
+    margin-bottom: 4.5rem;
+}
